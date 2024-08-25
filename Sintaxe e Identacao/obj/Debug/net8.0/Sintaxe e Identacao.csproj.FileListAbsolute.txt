@@ -1,0 +1,15 @@
+C:\Users\capab\OneDrive\Documentos\programacao\C#\Estudos .net\estudos_c_sharp\Sintaxe e Identacao\bin\Debug\net8.0\Sintaxe e Identacao.exe
+C:\Users\capab\OneDrive\Documentos\programacao\C#\Estudos .net\estudos_c_sharp\Sintaxe e Identacao\bin\Debug\net8.0\Sintaxe e Identacao.deps.json
+C:\Users\capab\OneDrive\Documentos\programacao\C#\Estudos .net\estudos_c_sharp\Sintaxe e Identacao\bin\Debug\net8.0\Sintaxe e Identacao.runtimeconfig.json
+C:\Users\capab\OneDrive\Documentos\programacao\C#\Estudos .net\estudos_c_sharp\Sintaxe e Identacao\bin\Debug\net8.0\Sintaxe e Identacao.dll
+C:\Users\capab\OneDrive\Documentos\programacao\C#\Estudos .net\estudos_c_sharp\Sintaxe e Identacao\bin\Debug\net8.0\Sintaxe e Identacao.pdb
+C:\Users\capab\OneDrive\Documentos\programacao\C#\Estudos .net\estudos_c_sharp\Sintaxe e Identacao\obj\Debug\net8.0\Sintaxe e Identacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\capab\OneDrive\Documentos\programacao\C#\Estudos .net\estudos_c_sharp\Sintaxe e Identacao\obj\Debug\net8.0\Sintaxe e Identacao.AssemblyInfoInputs.cache
+C:\Users\capab\OneDrive\Documentos\programacao\C#\Estudos .net\estudos_c_sharp\Sintaxe e Identacao\obj\Debug\net8.0\Sintaxe e Identacao.AssemblyInfo.cs
+C:\Users\capab\OneDrive\Documentos\programacao\C#\Estudos .net\estudos_c_sharp\Sintaxe e Identacao\obj\Debug\net8.0\Sintaxe e Identacao.csproj.CoreCompileInputs.cache
+C:\Users\capab\OneDrive\Documentos\programacao\C#\Estudos .net\estudos_c_sharp\Sintaxe e Identacao\obj\Debug\net8.0\Sintaxe e Identacao.sourcelink.json
+C:\Users\capab\OneDrive\Documentos\programacao\C#\Estudos .net\estudos_c_sharp\Sintaxe e Identacao\obj\Debug\net8.0\Sintaxe e Identacao.dll
+C:\Users\capab\OneDrive\Documentos\programacao\C#\Estudos .net\estudos_c_sharp\Sintaxe e Identacao\obj\Debug\net8.0\refint\Sintaxe e Identacao.dll
+C:\Users\capab\OneDrive\Documentos\programacao\C#\Estudos .net\estudos_c_sharp\Sintaxe e Identacao\obj\Debug\net8.0\Sintaxe e Identacao.pdb
+C:\Users\capab\OneDrive\Documentos\programacao\C#\Estudos .net\estudos_c_sharp\Sintaxe e Identacao\obj\Debug\net8.0\Sintaxe e Identacao.genruntimeconfig.cache
+C:\Users\capab\OneDrive\Documentos\programacao\C#\Estudos .net\estudos_c_sharp\Sintaxe e Identacao\obj\Debug\net8.0\ref\Sintaxe e Identacao.dll
