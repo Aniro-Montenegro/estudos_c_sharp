@@ -1,0 +1,15 @@
+C:\Users\capab\OneDrive\Documentos\programacao\C#\Estudos .net\estudos_c_sharp\TiposDeDados\bin\Debug\net8.0\TiposDeDados.exe
+C:\Users\capab\OneDrive\Documentos\programacao\C#\Estudos .net\estudos_c_sharp\TiposDeDados\bin\Debug\net8.0\TiposDeDados.deps.json
+C:\Users\capab\OneDrive\Documentos\programacao\C#\Estudos .net\estudos_c_sharp\TiposDeDados\bin\Debug\net8.0\TiposDeDados.runtimeconfig.json
+C:\Users\capab\OneDrive\Documentos\programacao\C#\Estudos .net\estudos_c_sharp\TiposDeDados\bin\Debug\net8.0\TiposDeDados.dll
+C:\Users\capab\OneDrive\Documentos\programacao\C#\Estudos .net\estudos_c_sharp\TiposDeDados\bin\Debug\net8.0\TiposDeDados.pdb
+C:\Users\capab\OneDrive\Documentos\programacao\C#\Estudos .net\estudos_c_sharp\TiposDeDados\obj\Debug\net8.0\TiposDeDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\capab\OneDrive\Documentos\programacao\C#\Estudos .net\estudos_c_sharp\TiposDeDados\obj\Debug\net8.0\TiposDeDados.AssemblyInfoInputs.cache
+C:\Users\capab\OneDrive\Documentos\programacao\C#\Estudos .net\estudos_c_sharp\TiposDeDados\obj\Debug\net8.0\TiposDeDados.AssemblyInfo.cs
+C:\Users\capab\OneDrive\Documentos\programacao\C#\Estudos .net\estudos_c_sharp\TiposDeDados\obj\Debug\net8.0\TiposDeDados.csproj.CoreCompileInputs.cache
+C:\Users\capab\OneDrive\Documentos\programacao\C#\Estudos .net\estudos_c_sharp\TiposDeDados\obj\Debug\net8.0\TiposDeDados.sourcelink.json
+C:\Users\capab\OneDrive\Documentos\programacao\C#\Estudos .net\estudos_c_sharp\TiposDeDados\obj\Debug\net8.0\TiposDeDados.dll
+C:\Users\capab\OneDrive\Documentos\programacao\C#\Estudos .net\estudos_c_sharp\TiposDeDados\obj\Debug\net8.0\refint\TiposDeDados.dll
+C:\Users\capab\OneDrive\Documentos\programacao\C#\Estudos .net\estudos_c_sharp\TiposDeDados\obj\Debug\net8.0\TiposDeDados.pdb
+C:\Users\capab\OneDrive\Documentos\programacao\C#\Estudos .net\estudos_c_sharp\TiposDeDados\obj\Debug\net8.0\TiposDeDados.genruntimeconfig.cache
+C:\Users\capab\OneDrive\Documentos\programacao\C#\Estudos .net\estudos_c_sharp\TiposDeDados\obj\Debug\net8.0\ref\TiposDeDados.dll
