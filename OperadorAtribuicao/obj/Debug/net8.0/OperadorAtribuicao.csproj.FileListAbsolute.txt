@@ -1,0 +1,15 @@
+C:\Users\capab\OneDrive\Documentos\programacao\C#\Estudos .net\estudos_c_sharp\OperadorAtribuicao\bin\Debug\net8.0\OperadorAtribuicao.exe
+C:\Users\capab\OneDrive\Documentos\programacao\C#\Estudos .net\estudos_c_sharp\OperadorAtribuicao\bin\Debug\net8.0\OperadorAtribuicao.deps.json
+C:\Users\capab\OneDrive\Documentos\programacao\C#\Estudos .net\estudos_c_sharp\OperadorAtribuicao\bin\Debug\net8.0\OperadorAtribuicao.runtimeconfig.json
+C:\Users\capab\OneDrive\Documentos\programacao\C#\Estudos .net\estudos_c_sharp\OperadorAtribuicao\bin\Debug\net8.0\OperadorAtribuicao.dll
+C:\Users\capab\OneDrive\Documentos\programacao\C#\Estudos .net\estudos_c_sharp\OperadorAtribuicao\bin\Debug\net8.0\OperadorAtribuicao.pdb
+C:\Users\capab\OneDrive\Documentos\programacao\C#\Estudos .net\estudos_c_sharp\OperadorAtribuicao\obj\Debug\net8.0\OperadorAtribuicao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\capab\OneDrive\Documentos\programacao\C#\Estudos .net\estudos_c_sharp\OperadorAtribuicao\obj\Debug\net8.0\OperadorAtribuicao.AssemblyInfoInputs.cache
+C:\Users\capab\OneDrive\Documentos\programacao\C#\Estudos .net\estudos_c_sharp\OperadorAtribuicao\obj\Debug\net8.0\OperadorAtribuicao.AssemblyInfo.cs
+C:\Users\capab\OneDrive\Documentos\programacao\C#\Estudos .net\estudos_c_sharp\OperadorAtribuicao\obj\Debug\net8.0\OperadorAtribuicao.csproj.CoreCompileInputs.cache
+C:\Users\capab\OneDrive\Documentos\programacao\C#\Estudos .net\estudos_c_sharp\OperadorAtribuicao\obj\Debug\net8.0\OperadorAtribuicao.sourcelink.json
+C:\Users\capab\OneDrive\Documentos\programacao\C#\Estudos .net\estudos_c_sharp\OperadorAtribuicao\obj\Debug\net8.0\OperadorAtribuicao.dll
+C:\Users\capab\OneDrive\Documentos\programacao\C#\Estudos .net\estudos_c_sharp\OperadorAtribuicao\obj\Debug\net8.0\refint\OperadorAtribuicao.dll
+C:\Users\capab\OneDrive\Documentos\programacao\C#\Estudos .net\estudos_c_sharp\OperadorAtribuicao\obj\Debug\net8.0\OperadorAtribuicao.pdb
+C:\Users\capab\OneDrive\Documentos\programacao\C#\Estudos .net\estudos_c_sharp\OperadorAtribuicao\obj\Debug\net8.0\OperadorAtribuicao.genruntimeconfig.cache
+C:\Users\capab\OneDrive\Documentos\programacao\C#\Estudos .net\estudos_c_sharp\OperadorAtribuicao\obj\Debug\net8.0\ref\OperadorAtribuicao.dll
