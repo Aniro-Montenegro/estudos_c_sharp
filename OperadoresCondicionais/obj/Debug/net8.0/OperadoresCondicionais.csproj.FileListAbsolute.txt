@@ -1,0 +1,15 @@
+C:\Users\capab\OneDrive\Documentos\programacao\C#\Estudos .net\estudos_c_sharp\OperadoresCondicionais\bin\Debug\net8.0\OperadoresCondicionais.exe
+C:\Users\capab\OneDrive\Documentos\programacao\C#\Estudos .net\estudos_c_sharp\OperadoresCondicionais\bin\Debug\net8.0\OperadoresCondicionais.deps.json
+C:\Users\capab\OneDrive\Documentos\programacao\C#\Estudos .net\estudos_c_sharp\OperadoresCondicionais\bin\Debug\net8.0\OperadoresCondicionais.runtimeconfig.json
+C:\Users\capab\OneDrive\Documentos\programacao\C#\Estudos .net\estudos_c_sharp\OperadoresCondicionais\bin\Debug\net8.0\OperadoresCondicionais.dll
+C:\Users\capab\OneDrive\Documentos\programacao\C#\Estudos .net\estudos_c_sharp\OperadoresCondicionais\bin\Debug\net8.0\OperadoresCondicionais.pdb
+C:\Users\capab\OneDrive\Documentos\programacao\C#\Estudos .net\estudos_c_sharp\OperadoresCondicionais\obj\Debug\net8.0\OperadoresCondicionais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\capab\OneDrive\Documentos\programacao\C#\Estudos .net\estudos_c_sharp\OperadoresCondicionais\obj\Debug\net8.0\OperadoresCondicionais.AssemblyInfoInputs.cache
+C:\Users\capab\OneDrive\Documentos\programacao\C#\Estudos .net\estudos_c_sharp\OperadoresCondicionais\obj\Debug\net8.0\OperadoresCondicionais.AssemblyInfo.cs
+C:\Users\capab\OneDrive\Documentos\programacao\C#\Estudos .net\estudos_c_sharp\OperadoresCondicionais\obj\Debug\net8.0\OperadoresCondicionais.csproj.CoreCompileInputs.cache
+C:\Users\capab\OneDrive\Documentos\programacao\C#\Estudos .net\estudos_c_sharp\OperadoresCondicionais\obj\Debug\net8.0\OperadoresCondicionais.sourcelink.json
+C:\Users\capab\OneDrive\Documentos\programacao\C#\Estudos .net\estudos_c_sharp\OperadoresCondicionais\obj\Debug\net8.0\OperadoresCondicionais.dll
+C:\Users\capab\OneDrive\Documentos\programacao\C#\Estudos .net\estudos_c_sharp\OperadoresCondicionais\obj\Debug\net8.0\refint\OperadoresCondicionais.dll
+C:\Users\capab\OneDrive\Documentos\programacao\C#\Estudos .net\estudos_c_sharp\OperadoresCondicionais\obj\Debug\net8.0\OperadoresCondicionais.pdb
+C:\Users\capab\OneDrive\Documentos\programacao\C#\Estudos .net\estudos_c_sharp\OperadoresCondicionais\obj\Debug\net8.0\OperadoresCondicionais.genruntimeconfig.cache
+C:\Users\capab\OneDrive\Documentos\programacao\C#\Estudos .net\estudos_c_sharp\OperadoresCondicionais\obj\Debug\net8.0\ref\OperadoresCondicionais.dll
