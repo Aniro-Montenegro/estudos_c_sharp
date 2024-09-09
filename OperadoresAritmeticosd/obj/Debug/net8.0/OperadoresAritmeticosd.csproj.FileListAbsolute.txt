@@ -1,0 +1,14 @@
+C:\Users\capab\OneDrive\Documentos\programacao\C#\Estudos .net\OperadoresAritmeticosd\bin\Debug\net8.0\OperadoresAritmeticosd.exe
+C:\Users\capab\OneDrive\Documentos\programacao\C#\Estudos .net\OperadoresAritmeticosd\bin\Debug\net8.0\OperadoresAritmeticosd.deps.json
+C:\Users\capab\OneDrive\Documentos\programacao\C#\Estudos .net\OperadoresAritmeticosd\bin\Debug\net8.0\OperadoresAritmeticosd.runtimeconfig.json
+C:\Users\capab\OneDrive\Documentos\programacao\C#\Estudos .net\OperadoresAritmeticosd\bin\Debug\net8.0\OperadoresAritmeticosd.dll
+C:\Users\capab\OneDrive\Documentos\programacao\C#\Estudos .net\OperadoresAritmeticosd\bin\Debug\net8.0\OperadoresAritmeticosd.pdb
+C:\Users\capab\OneDrive\Documentos\programacao\C#\Estudos .net\OperadoresAritmeticosd\obj\Debug\net8.0\OperadoresAritmeticosd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\capab\OneDrive\Documentos\programacao\C#\Estudos .net\OperadoresAritmeticosd\obj\Debug\net8.0\OperadoresAritmeticosd.AssemblyInfoInputs.cache
+C:\Users\capab\OneDrive\Documentos\programacao\C#\Estudos .net\OperadoresAritmeticosd\obj\Debug\net8.0\OperadoresAritmeticosd.AssemblyInfo.cs
+C:\Users\capab\OneDrive\Documentos\programacao\C#\Estudos .net\OperadoresAritmeticosd\obj\Debug\net8.0\OperadoresAritmeticosd.csproj.CoreCompileInputs.cache
+C:\Users\capab\OneDrive\Documentos\programacao\C#\Estudos .net\OperadoresAritmeticosd\obj\Debug\net8.0\OperadoresAritmeticosd.dll
+C:\Users\capab\OneDrive\Documentos\programacao\C#\Estudos .net\OperadoresAritmeticosd\obj\Debug\net8.0\refint\OperadoresAritmeticosd.dll
+C:\Users\capab\OneDrive\Documentos\programacao\C#\Estudos .net\OperadoresAritmeticosd\obj\Debug\net8.0\OperadoresAritmeticosd.pdb
+C:\Users\capab\OneDrive\Documentos\programacao\C#\Estudos .net\OperadoresAritmeticosd\obj\Debug\net8.0\OperadoresAritmeticosd.genruntimeconfig.cache
+C:\Users\capab\OneDrive\Documentos\programacao\C#\Estudos .net\OperadoresAritmeticosd\obj\Debug\net8.0\ref\OperadoresAritmeticosd.dll
