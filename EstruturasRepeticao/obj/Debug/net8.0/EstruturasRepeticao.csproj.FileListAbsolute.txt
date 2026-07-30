@@ -1,0 +1,15 @@
+C:\Users\capab\OneDrive\Documentos\Aniro\programacao\C#\Estudos .net\estudos_c_sharp\EstruturasRepeticao\bin\Debug\net8.0\EstruturasRepeticao.exe
+C:\Users\capab\OneDrive\Documentos\Aniro\programacao\C#\Estudos .net\estudos_c_sharp\EstruturasRepeticao\bin\Debug\net8.0\EstruturasRepeticao.deps.json
+C:\Users\capab\OneDrive\Documentos\Aniro\programacao\C#\Estudos .net\estudos_c_sharp\EstruturasRepeticao\bin\Debug\net8.0\EstruturasRepeticao.runtimeconfig.json
+C:\Users\capab\OneDrive\Documentos\Aniro\programacao\C#\Estudos .net\estudos_c_sharp\EstruturasRepeticao\bin\Debug\net8.0\EstruturasRepeticao.dll
+C:\Users\capab\OneDrive\Documentos\Aniro\programacao\C#\Estudos .net\estudos_c_sharp\EstruturasRepeticao\bin\Debug\net8.0\EstruturasRepeticao.pdb
+C:\Users\capab\OneDrive\Documentos\Aniro\programacao\C#\Estudos .net\estudos_c_sharp\EstruturasRepeticao\obj\Debug\net8.0\EstruturasRepeticao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\capab\OneDrive\Documentos\Aniro\programacao\C#\Estudos .net\estudos_c_sharp\EstruturasRepeticao\obj\Debug\net8.0\EstruturasRepeticao.AssemblyInfoInputs.cache
+C:\Users\capab\OneDrive\Documentos\Aniro\programacao\C#\Estudos .net\estudos_c_sharp\EstruturasRepeticao\obj\Debug\net8.0\EstruturasRepeticao.AssemblyInfo.cs
+C:\Users\capab\OneDrive\Documentos\Aniro\programacao\C#\Estudos .net\estudos_c_sharp\EstruturasRepeticao\obj\Debug\net8.0\EstruturasRepeticao.csproj.CoreCompileInputs.cache
+C:\Users\capab\OneDrive\Documentos\Aniro\programacao\C#\Estudos .net\estudos_c_sharp\EstruturasRepeticao\obj\Debug\net8.0\EstruturasRepeticao.sourcelink.json
+C:\Users\capab\OneDrive\Documentos\Aniro\programacao\C#\Estudos .net\estudos_c_sharp\EstruturasRepeticao\obj\Debug\net8.0\EstruturasRepeticao.dll
+C:\Users\capab\OneDrive\Documentos\Aniro\programacao\C#\Estudos .net\estudos_c_sharp\EstruturasRepeticao\obj\Debug\net8.0\refint\EstruturasRepeticao.dll
+C:\Users\capab\OneDrive\Documentos\Aniro\programacao\C#\Estudos .net\estudos_c_sharp\EstruturasRepeticao\obj\Debug\net8.0\EstruturasRepeticao.pdb
+C:\Users\capab\OneDrive\Documentos\Aniro\programacao\C#\Estudos .net\estudos_c_sharp\EstruturasRepeticao\obj\Debug\net8.0\EstruturasRepeticao.genruntimeconfig.cache
+C:\Users\capab\OneDrive\Documentos\Aniro\programacao\C#\Estudos .net\estudos_c_sharp\EstruturasRepeticao\obj\Debug\net8.0\ref\EstruturasRepeticao.dll

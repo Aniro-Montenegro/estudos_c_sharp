@@ -1,0 +1,15 @@
+C:\Users\capab\OneDrive\Documentos\programacao\C#\Estudos .net\estudos_c_sharp\ProjetoCadastro\bin\Debug\net8.0\ProjetoCadastro.exe
+C:\Users\capab\OneDrive\Documentos\programacao\C#\Estudos .net\estudos_c_sharp\ProjetoCadastro\bin\Debug\net8.0\ProjetoCadastro.deps.json
+C:\Users\capab\OneDrive\Documentos\programacao\C#\Estudos .net\estudos_c_sharp\ProjetoCadastro\bin\Debug\net8.0\ProjetoCadastro.runtimeconfig.json
+C:\Users\capab\OneDrive\Documentos\programacao\C#\Estudos .net\estudos_c_sharp\ProjetoCadastro\bin\Debug\net8.0\ProjetoCadastro.dll
+C:\Users\capab\OneDrive\Documentos\programacao\C#\Estudos .net\estudos_c_sharp\ProjetoCadastro\bin\Debug\net8.0\ProjetoCadastro.pdb
+C:\Users\capab\OneDrive\Documentos\programacao\C#\Estudos .net\estudos_c_sharp\ProjetoCadastro\obj\Debug\net8.0\ProjetoCadastro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\capab\OneDrive\Documentos\programacao\C#\Estudos .net\estudos_c_sharp\ProjetoCadastro\obj\Debug\net8.0\ProjetoCadastro.AssemblyInfoInputs.cache
+C:\Users\capab\OneDrive\Documentos\programacao\C#\Estudos .net\estudos_c_sharp\ProjetoCadastro\obj\Debug\net8.0\ProjetoCadastro.AssemblyInfo.cs
+C:\Users\capab\OneDrive\Documentos\programacao\C#\Estudos .net\estudos_c_sharp\ProjetoCadastro\obj\Debug\net8.0\ProjetoCadastro.csproj.CoreCompileInputs.cache
+C:\Users\capab\OneDrive\Documentos\programacao\C#\Estudos .net\estudos_c_sharp\ProjetoCadastro\obj\Debug\net8.0\ProjetoCadastro.sourcelink.json
+C:\Users\capab\OneDrive\Documentos\programacao\C#\Estudos .net\estudos_c_sharp\ProjetoCadastro\obj\Debug\net8.0\ProjetoCadastro.dll
+C:\Users\capab\OneDrive\Documentos\programacao\C#\Estudos .net\estudos_c_sharp\ProjetoCadastro\obj\Debug\net8.0\refint\ProjetoCadastro.dll
+C:\Users\capab\OneDrive\Documentos\programacao\C#\Estudos .net\estudos_c_sharp\ProjetoCadastro\obj\Debug\net8.0\ProjetoCadastro.pdb
+C:\Users\capab\OneDrive\Documentos\programacao\C#\Estudos .net\estudos_c_sharp\ProjetoCadastro\obj\Debug\net8.0\ProjetoCadastro.genruntimeconfig.cache
+C:\Users\capab\OneDrive\Documentos\programacao\C#\Estudos .net\estudos_c_sharp\ProjetoCadastro\obj\Debug\net8.0\ref\ProjetoCadastro.dll
